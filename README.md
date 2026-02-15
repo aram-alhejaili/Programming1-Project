@@ -12,7 +12,7 @@ It focuses on generating secure passwords, evaluating password strength, and imp
 - Generate three random passwords based on a user-defined length
 - Evaluate the strength of a user-entered password
 - Generate passwords and display their strength scores
-- Menu-driven console interface for user interaction
+- Menu-driven console interface for user interaction 
 
 ## 🔍 Password Strength Criteria
 Password strength is evaluated based on:
