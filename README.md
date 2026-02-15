@@ -41,5 +41,5 @@ Password strength is evaluated based on:
 3. Choose a service from the menu or exit the program
 
 ## 👩‍💻 Author
-Aram Alhajili  
+Aram Alhejaili  
 Artificial Intelligence Student
