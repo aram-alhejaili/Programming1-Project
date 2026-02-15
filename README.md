@@ -27,6 +27,13 @@ Password strength is evaluated based on:
 - Console input/output (Scanner)
 - Basic programming concepts (loops, conditions, methods)
 
+## 💡 Skills Demonstrated
+- Problem Solving
+- Java Basics
+- Logical Thinking
+- Console Application Development
+
+
 ## ▶️ How to Run
 1. Compile the program
 2. Run the main class:
